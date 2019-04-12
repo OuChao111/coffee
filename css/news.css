@@ -1,0 +1,30 @@
+@charset "utf-8";
+body{
+    background-color:  #ECECF6;
+}
+.news{
+    background-color: #ECECF6;
+}
+.do-html-title{
+    font-size: 26px;
+    font-weight: 700;
+    color: #1B1E21;
+    margin: 30px 0;
+}
+.news .title{
+    color: #1B1E21;
+    font-size: 18px;
+    font-weight: 600;
+}
+.news .text{
+    color: #1B1E21;
+}
+.news .time{
+    color: #1B1E21;
+}
+.news .btn-danger{
+    padding: 10px 20px;
+}
+.footer{
+    width: 100%;
+}
